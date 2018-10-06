@@ -1,4 +1,4 @@
-# Sistemas Distribuidos 
+# Sistemas Distribuidos - Pyro4
 
 1. Construa uma calculadora onde as seguintes operações básicas devem ser realizadas no
 servidor: soma, subtração, multiplicação, divisão, potencialização e radiciação. O cliente
